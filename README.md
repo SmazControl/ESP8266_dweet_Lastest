@@ -7,3 +7,8 @@ ESP8266 Check Lastest Dweet time to know Dweeter loosing operate
 ที่ dweet อยู่แล้วไม่ dweet เช่น แบตหมด
 
 แจ้งเตือนทาง Line Notify
+
+* ต้องใช้ไลบารี่
+https://github.com/SmazControl/dweet-esp8266
+
+ArduinoJSON
