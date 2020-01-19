@@ -6,6 +6,10 @@ ESP8266 Check Lastest Dweet time to know Dweeter loosing operate
 
 ที่ dweet อยู่แล้วไม่ dweet เช่น แบตหมด
 
+
+<img src="https://github.com/SmazControl/ESP8266_dweet_Lastest/blob/master/missing.png?raw=true" width="250px">
+
+
 แจ้งเตือนทาง Line Notify
 
 * ต้องใช้ไลบารี่
